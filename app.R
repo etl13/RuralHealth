@@ -15,7 +15,7 @@ library(sf)
 
 
 
-NC_business<-read.csv("NC_business.csv")
+NC_business<-read.csv("data/NC_business.csv")
 # # Define years and variables
 # available_years <- 2020:2023
 # acs_vars <- c(
@@ -87,7 +87,7 @@ NC_business<-read.csv("NC_business.csv")
 # #  
 #  saveRDS(Swain_DBC, "~/Library/CloudStorage/Box-Box/SEED_County/New_Data/ACS_County/County_Demo.csv")
 
-Swain_DBC<-readRDS(file = "County_Demo.csv")
+Swain_DBC<-readRDS(file = "data/County_Demo.csv")
 
 business_20_24 <- NC_business%>%
   dplyr::rename( 

@@ -11,7 +11,8 @@ library(shiny)
 library(leaflet)
 library(tidycensus)
 library(sf)
-library(tidyverse)
+library(dplyr)
+library(stringr)
 
 
 NC_business<-read.csv("data/NC_business.csv")

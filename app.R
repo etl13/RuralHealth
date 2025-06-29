@@ -12,7 +12,7 @@ library(leaflet)
 library(tidycensus)
 library(sf)
 library(stringr)
-
+library(tidyverse)
 
 
 NC_business<-read.csv("data/NC_business.csv")

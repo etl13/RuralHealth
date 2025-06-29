@@ -10,8 +10,8 @@
 library(shiny)
 library(leaflet)
 library(tidycensus)
-library(dplyr)
 library(sf)
+library(stringr)
 
 
 

@@ -15,7 +15,7 @@ library(dplyr)
 library(stringr)
 
 
-NC_business<-read.csv("data/NC_business.csv")
+NC_business<-read.csv("data/NC_business_71125.csv")
 # # Define years and variables
 # available_years <- 2020:2023
 # acs_vars <- c(
@@ -87,14 +87,23 @@ NC_business<-read.csv("data/NC_business.csv")
 # #  
 #  saveRDS(Swain_DBC, "~/Library/CloudStorage/Box-Box/SEED_County/New_Data/ACS_County/County_Demo.csv")
 
-Swain_DBC<-readRDS(file = "data/County_Demo.csv")
+Swain_DBC<-readRDS(file = "data/County_Demo_71125.csv")
+
 
 business_20_24 <- NC_business%>%
   dplyr::rename( 
     year = archive_version_year
   )%>%
   mutate(county_code=ifelse(county_code==173, "Swain County", 
-                            ifelse(county_code==63, "Durham County", "Vance County")))
+                            ifelse(county_code==87, "Haywood County", 
+                                   ifelse(county_code==69,"Franklin County", "Vance County"))))
+
+#rename columns
+business_20_24c <- business_20_24 %>%
+  select(primary_sic_code, company, sic6_descriptions, year, city,
+         census_tract, census_block, county_code
+  )%>%
+  filter(!is.na(sic6_descriptions), !(year==2024))
 
 #rename columns
 business_20_24c <- business_20_24 %>%

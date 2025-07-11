@@ -1,0 +1,129 @@
+"","county","All","year","variable_code","estimate"
+"1","Franklin County",68027,"2020","Hispanic",8.636276772458
+"2","Franklin County",68027,"2020","White",63.2910462022432
+"3","Franklin County",68027,"2020","Black",23.8684639922384
+"4","Franklin County",68027,"2020","American Indian",0.361621121025475
+"5","Franklin County",68027,"2020","Asian",0.454231408117365
+"6","Franklin County",68027,"2020","NHPI",0.00882002734208476
+"7","Franklin County",68027,"2020","Other Race",0.433651344319167
+"8","Franklin County",68027,"2020","Two or More Races",2.94588913225631
+"9","Haywood County",61862,"2020","Hispanic",4.13339368271314
+"10","Haywood County",61862,"2020","White",92.3070705764443
+"11","Haywood County",61862,"2020","Black",0.874527173385923
+"12","Haywood County",61862,"2020","American Indian",0.514047395816495
+"13","Haywood County",61862,"2020","Asian",0.665998512818855
+"14","Haywood County",61862,"2020","NHPI",0
+"15","Haywood County",61862,"2020","Other Race",0.0727425560117681
+"16","Haywood County",61862,"2020","Two or More Races",1.43222010280948
+"17","Swain County",14241,"2020","Hispanic",6.03890176251668
+"18","Swain County",14241,"2020","White",61.1333473772909
+"19","Swain County",14241,"2020","Black",0.667087985394284
+"20","Swain County",14241,"2020","American Indian",28.2704866231304
+"21","Swain County",14241,"2020","Asian",0.449406642791939
+"22","Swain County",14241,"2020","NHPI",0
+"23","Swain County",14241,"2020","Other Race",0
+"24","Swain County",14241,"2020","Two or More Races",3.44076960887578
+"25","Vance County",44614,"2020","Hispanic",7.99524812839019
+"26","Vance County",44614,"2020","White",39.0505222575873
+"27","Vance County",44614,"2020","Black",49.0047967005873
+"28","Vance County",44614,"2020","American Indian",0.228627785000224
+"29","Vance County",44614,"2020","Asian",0.840543327206706
+"30","Vance County",44614,"2020","NHPI",0
+"31","Vance County",44614,"2020","Other Race",0
+"32","Vance County",44614,"2020","Two or More Races",2.88026180122831
+"33","Franklin County",68027,"2021","Hispanic",8.636276772458
+"34","Franklin County",68027,"2021","White",63.2910462022432
+"35","Franklin County",68027,"2021","Black",23.8684639922384
+"36","Franklin County",68027,"2021","American Indian",0.361621121025475
+"37","Franklin County",68027,"2021","Asian",0.454231408117365
+"38","Franklin County",68027,"2021","NHPI",0.00882002734208476
+"39","Franklin County",68027,"2021","Other Race",0.433651344319167
+"40","Franklin County",68027,"2021","Two or More Races",2.94588913225631
+"41","Haywood County",61862,"2021","Hispanic",4.13339368271314
+"42","Haywood County",61862,"2021","White",92.3070705764443
+"43","Haywood County",61862,"2021","Black",0.874527173385923
+"44","Haywood County",61862,"2021","American Indian",0.514047395816495
+"45","Haywood County",61862,"2021","Asian",0.665998512818855
+"46","Haywood County",61862,"2021","NHPI",0
+"47","Haywood County",61862,"2021","Other Race",0.0727425560117681
+"48","Haywood County",61862,"2021","Two or More Races",1.43222010280948
+"49","Swain County",14241,"2021","Hispanic",6.03890176251668
+"50","Swain County",14241,"2021","White",61.1333473772909
+"51","Swain County",14241,"2021","Black",0.667087985394284
+"52","Swain County",14241,"2021","American Indian",28.2704866231304
+"53","Swain County",14241,"2021","Asian",0.449406642791939
+"54","Swain County",14241,"2021","NHPI",0
+"55","Swain County",14241,"2021","Other Race",0
+"56","Swain County",14241,"2021","Two or More Races",3.44076960887578
+"57","Vance County",44614,"2021","Hispanic",7.99524812839019
+"58","Vance County",44614,"2021","White",39.0505222575873
+"59","Vance County",44614,"2021","Black",49.0047967005873
+"60","Vance County",44614,"2021","American Indian",0.228627785000224
+"61","Vance County",44614,"2021","Asian",0.840543327206706
+"62","Vance County",44614,"2021","NHPI",0
+"63","Vance County",44614,"2021","Other Race",0
+"64","Vance County",44614,"2021","Two or More Races",2.88026180122831
+"65","Franklin County",69680,"2022","Hispanic",9.38145809414466
+"66","Franklin County",69680,"2022","White",62.431113662457
+"67","Franklin County",69680,"2022","Black",23.4916762342135
+"68","Franklin County",69680,"2022","American Indian",0.302812858783008
+"69","Franklin County",69680,"2022","Asian",0.648679678530425
+"70","Franklin County",69680,"2022","NHPI",0.00287026406429392
+"71","Franklin County",69680,"2022","Other Race",0.327210103329506
+"72","Franklin County",69680,"2022","Two or More Races",3.41417910447761
+"73","Haywood County",62152,"2022","Hispanic",4.52439181361823
+"74","Haywood County",62152,"2022","White",91.4467756468014
+"75","Haywood County",62152,"2022","Black",0.809306217016347
+"76","Haywood County",62152,"2022","American Indian",0.355579868708972
+"77","Haywood County",62152,"2022","Asian",0.39902175312138
+"78","Haywood County",62152,"2022","NHPI",0
+"79","Haywood County",62152,"2022","Other Race",0.0128716694555284
+"80","Haywood County",62152,"2022","Two or More Races",2.45205303127816
+"81","Swain County",14130,"2022","Hispanic",6.88605803255485
+"82","Swain County",14130,"2022","White",59.5470629865534
+"83","Swain County",14130,"2022","Black",1.19603680113234
+"84","Swain County",14130,"2022","American Indian",27.9476291578202
+"85","Swain County",14130,"2022","Asian",0.523708421797594
+"86","Swain County",14130,"2022","NHPI",0
+"87","Swain County",14130,"2022","Other Race",0.0353857041755131
+"88","Swain County",14130,"2022","Two or More Races",3.86411889596603
+"89","Vance County",42492,"2022","Hispanic",8.51689729831498
+"90","Vance County",42492,"2022","White",38.2024851736798
+"91","Vance County",42492,"2022","Black",48.7974206909536
+"92","Vance County",42492,"2022","American Indian",0.14120304998588
+"93","Vance County",42492,"2022","Asian",0.920173209074649
+"94","Vance County",42492,"2022","NHPI",0
+"95","Vance County",42492,"2022","Other Race",0
+"96","Vance County",42492,"2022","Two or More Races",3.42182057799115
+"97","Franklin County",71962,"2023","Hispanic",10.6125455101303
+"98","Franklin County",71962,"2023","White",61.1183680275701
+"99","Franklin County",71962,"2023","Black",22.8620660904366
+"100","Franklin County",71962,"2023","American Indian",0.222339568105389
+"101","Franklin County",71962,"2023","Asian",0.808760178983352
+"102","Franklin County",71962,"2023","NHPI",0.00277924460131736
+"103","Franklin County",71962,"2023","Other Race",0.321002751452155
+"104","Franklin County",71962,"2023","Two or More Races",4.05213862872071
+"105","Haywood County",62432,"2023","Hispanic",4.72994618144541
+"106","Haywood County",62432,"2023","White",90.8972962583291
+"107","Haywood County",62432,"2023","Black",0.965850845720143
+"108","Haywood County",62432,"2023","American Indian",0.461301896463352
+"109","Haywood County",62432,"2023","Asian",0.384418247052793
+"110","Haywood County",62432,"2023","NHPI",0
+"111","Haywood County",62432,"2023","Other Race",0.121732444900051
+"112","Haywood County",62432,"2023","Two or More Races",2.43945412608919
+"113","Swain County",14065,"2023","Hispanic",5.10487024528973
+"114","Swain County",14065,"2023","White",60.3412726626378
+"115","Swain County",14065,"2023","Black",1.50728759331674
+"116","Swain County",14065,"2023","American Indian",28.2332029861358
+"117","Swain County",14065,"2023","Asian",0.398151439744045
+"118","Swain County",14065,"2023","NHPI",0
+"119","Swain County",14065,"2023","Other Race",0.0355492356914326
+"120","Swain County",14065,"2023","Two or More Races",4.3796658371845
+"121","Vance County",42361,"2023","Hispanic",9.0956304147683
+"122","Vance County",42361,"2023","White",37.6218691721159
+"123","Vance County",42361,"2023","Black",48.9011118717688
+"124","Vance County",42361,"2023","American Indian",0.110951110691438
+"125","Vance County",42361,"2023","Asian",0.642100044852577
+"126","Vance County",42361,"2023","NHPI",0
+"127","Vance County",42361,"2023","Other Race",0
+"128","Vance County",42361,"2023","Two or More Races",3.62833738580298

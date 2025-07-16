@@ -83,7 +83,7 @@ server <- function(input, output, session) {
     req(input$show_businesses, input$selected_variable,input$selected_year)
     selected_var_code <- acs_vars[input$selected_variable]
     # Filter logic can go here if needed
-    Rural_Business_Marker%>%
+    NC_business%>%
       filter(year==input$selected_year,variable_code == selected_var_code)
   })
   acs_data <- reactive({

@@ -56,7 +56,7 @@ acs_vars <- c(
 
 # UI
 ui <- fluidPage(
-  titlePanel("Mapping Health Access in NC: Swain, Durham, and Vance County"),
+  titlePanel("Mapping Health Access in North Carolina"),
   sidebarLayout(
     sidebarPanel(
       sliderInput("selected_year", "Select ACS Year:",
